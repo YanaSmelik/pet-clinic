@@ -22,6 +22,11 @@
         <java.version>17</java.version>
     </properties>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/YanaSmelik/pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
